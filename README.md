@@ -5,11 +5,17 @@ Introducing Wallet App, a dynamic Flutter-based application designed to prioriti
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Before you begin, make sure you have the following installed on your system:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Flutter SDK: Install Flutter by following the instructions on the official Flutter website.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart SDK: Flutter requires the Dart SDK. You can get it as part of the Flutter installation.
+
+Flutter IDE: Choose an IDE for Flutter development. Popular choices include Visual Studio Code with the Flutter and Dart plugins or Android Studio with the Flutter plugin.
+
+# Features:
+1. Performance Optimization
+2. Financial Integrity
+3. Visually appealing Animations
+4. Convenient Payment Options
+5. Secured Transfer
